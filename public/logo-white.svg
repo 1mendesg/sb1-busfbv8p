@@ -1,0 +1,6 @@
+<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 8H100" stroke="#FFFFFF" stroke-width="4"/>
+  <path d="M10 20H110" stroke="#FFFFFF" stroke-width="4"/>
+  <path d="M20 32H100" stroke="#FFFFFF" stroke-width="4"/>
+  <text x="50%" y="50%" text-anchor="middle" dy=".3em" fill="#FFFFFF" font-family="Arial" font-weight="bold" font-size="16">USUAL</text>
+</svg>
